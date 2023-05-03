@@ -1,0 +1,10 @@
+.app {
+  height: 100vh;
+}
+
+select {
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+}
